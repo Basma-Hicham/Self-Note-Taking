@@ -158,7 +158,7 @@ textarea{
     /* transform: translate(450px , 700px); */
     transition: all 0.5s; /* Smooth transition for width and height change */
     overflow: hidden;
-    margin-top: 20px;
+    margin: 100px 450px;
     display: none;
     position: relative;
 
