@@ -14,7 +14,8 @@ body {
   font-size:4em;
 }
 .container{
-    
+    width: 25vw;
+   height:25vw;
     position: relative;
     transition: opacity 2s ease, transform 2s ease;
     transform: translateY(80px);
