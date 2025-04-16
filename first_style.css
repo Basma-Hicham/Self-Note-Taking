@@ -29,8 +29,8 @@ body {
     font-style: normal;
     position: absolute;
     font-size: 4.8em;
-    margin-top: 15%; /*11*/
-    margin-left: 101%; /*50*/
+    margin-top: 45%; /*11*/
+    margin-left: 270%; /*50*/
     transform-origin: bottom left; 
     z-index: 2;
     background: linear-gradient(to right, #000000, #4b4747b6); 
@@ -50,8 +50,8 @@ body {
     font-size: 4.5em;
     color: transparent;
     text-shadow: 0 0 8px rgba(0,0,0,0.3); 
-    margin-top: 15%;
-    margin-left: 101%;
+    margin-top: 45%;
+    margin-left: 270%;
     z-index: 1;
 }
 .interface{
